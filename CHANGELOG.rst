@@ -17,6 +17,10 @@ Unreleased
 ----------
 * nothing unreleased
 
+[8.11.0] - 2026-09-10
+----------------------
+* fix: change SupportContactEnterpriseTagStep to accept/return full context (ENT-11574)
+
 [8.10.0] - 2026-09-08
 ----------------------
 * feat: add SupportContactEnterpriseTagStep pipeline step (ENT-11574)
